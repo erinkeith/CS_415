@@ -1,0 +1,7 @@
+all:
+	g++ -o Sequential Nbody.cpp `Magick++-config --cppflags --cxxflags --ldflags --libs`
+
+
+
+clean:
+	rm Sequential* animation.gif

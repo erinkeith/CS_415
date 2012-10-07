@@ -1,0 +1,30 @@
+/opt/gridengine/default/spool/compute-40-6/active_jobs/861755.1/pe_hostfile
+compute-40-6
+200x200x200: 0.21
+/opt/gridengine/default/spool/compute-41-0/active_jobs/861756.1/pe_hostfile
+compute-41-0
+400x400x400: 1.76
+/opt/gridengine/default/spool/compute-40-7/active_jobs/861757.1/pe_hostfile
+compute-40-7
+600x600x600: 6.86
+/opt/gridengine/default/spool/compute-40-6/active_jobs/861758.1/pe_hostfile
+compute-40-6
+800x800x800: 16.72
+/opt/gridengine/default/spool/compute-40-8/active_jobs/861759.1/pe_hostfile
+compute-40-8
+/opt/gridengine/default/spool/compute-41-1/active_jobs/861760.1/pe_hostfile
+compute-41-1
+1000x1000x1000: 34.47
+/opt/gridengine/default/spool/compute-40-2/active_jobs/861761.1/pe_hostfile
+compute-40-2
+/opt/gridengine/default/spool/compute-41-4/active_jobs/861762.1/pe_hostfile
+compute-41-4
+1200x1200x1200: 60.84
+/opt/gridengine/default/spool/compute-40-4/active_jobs/861763.1/pe_hostfile
+compute-40-4
+/opt/gridengine/default/spool/compute-40-7/active_jobs/861764.1/pe_hostfile
+compute-40-7
+1400x1400x1400: 97.08
+1600x1600x1600: 145.31
+1800x1800x1800: 209.07
+2000x2000x2000: 286.48

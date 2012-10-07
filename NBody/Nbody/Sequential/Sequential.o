@@ -1,0 +1,42 @@
+/opt/gridengine/default/spool/compute-41-0/active_jobs/786732.1/pe_hostfile
+compute-41-0
+Sequential 4000: 0.03
+Sequential 4000: 0.03
+Sequential 4000: 0.03
+Sequential 4000: 0.03
+Sequential 4000: 0.04
+/opt/gridengine/default/spool/compute-4-0/active_jobs/786743.1/pe_hostfile
+compute-4-0
+Sequential 4000: 0.31
+Sequential 4000: 0.3
+Sequential 4000: 0.31
+Sequential 4000: 0.3
+Sequential 4000: 0.3
+/opt/gridengine/default/spool/compute-4-0/active_jobs/786753.1/pe_hostfile
+compute-4-0
+Sequential 4000: 0.69
+Sequential 4000: 0.54
+Sequential 4000: 0.68
+Sequential 4000: 0.55
+Sequential 4000: 0.48
+/opt/gridengine/default/spool/compute-41-2/active_jobs/787191.1/pe_hostfile
+compute-41-2
+Sequential 4000: 0.59
+Sequential 4000: 0.59
+Sequential 4000: 0.59
+Sequential 4000: 0.6
+Sequential 4000: 0.6
+/opt/gridengine/default/spool/compute-40-1/active_jobs/787192.1/pe_hostfile
+compute-40-1
+Sequential 4000: 0.93
+Sequential 4000: 0.95
+Sequential 4000: 0.95
+Sequential 4000: 0.93
+Sequential 4000: 0.92
+/opt/gridengine/default/spool/compute-40-5/active_jobs/787210.1/pe_hostfile
+compute-40-5
+Sequential 4000: 1.36
+Sequential 4000: 1.32
+Sequential 4000: 1.32
+Sequential 4000: 1.35
+Sequential 4000: 1.32
